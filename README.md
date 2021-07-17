@@ -21,7 +21,7 @@ ROCK Pi X comes in two models, Model A and Model B, each model has 1GB, 2GB or 4
 
 <br><br>
 <p align='center'>
-  <img src='https://wiki.radxa.com/mw/images/thumb/5/5a/Rockpi_x_ports_v14.jpg/750px-Rockpi_x_ports_v14.jpg' width='800' length='800' alt='Pin Config'>
+  <img src='https://wiki.radxa.com/mw/images/thumb/5/5a/Rockpi_x_ports_v14.jpg/750px-Rockpi_x_ports_v14.jpg' width='800' height='800' alt='Pin Config'>
 </p>
 <br>
 
