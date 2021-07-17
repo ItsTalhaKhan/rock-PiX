@@ -30,3 +30,11 @@ ROCK Pi X comes in two models, Model A and Model B, each model has 1GB, 2GB or 4
 1. <a href='https://wiki.radxa.com/RockpiX/getting_started'> Getting Started </a>
 2. <a href='https://wiki.radxa.com/RockpiX/hardware/rockpiX#gpio'> GPIO Pins </a>
 3. <a href=''> BIOS Update </a>
+
+## Uploading OS
+
+1. Download the image of the OS. <br> <a href='https://go.microsoft.com/fwlink/?LinkId=691209'> Windows </a> <br> <a href='https://ubuntu.com/download/desktop'> Ubuntu </a> <br>
+2. The image is to be formatted and burnt in the USB. Recommended <a href='https://dl.radxa.com/rockpix/tools/rufus-3.11.exe.zip'>software </a> is linked. (For further details follow the instructions as per given regarding the disk partition etc. Click on the link for <a href='https://wiki.radxa.com/RockpiX/install/Windows.iso'> Windows </a> and <a href='https://wiki.radxa.com/RockpiX/install/ubuntu'> Ubuntu </a>).
+3. The image from the USB disk can directly be booted from the BIOS of rock PI X using Boot Override.
+
+For further details on the OS and rock Pi X <a href='https://wiki.radxa.com/RockpiX'> visit </a>.
