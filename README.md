@@ -17,11 +17,11 @@ ROCK Pi X comes in two models, Model A and Model B, each model has 1GB, 2GB or 4
 3. 802.11 ac Wi-Fi & Bluetooth 4.2 to realize IoT projects
 4. Supports PD 2.0 and QC 3.0 power input
 5. 4GB RAM (LPDDR3@1866Mb/s, 64 bit dual channel)
-6. 128GB Capacity
+6. 128GB Internal Storage eMMC + Micro SD
 
 <br><br>
 <p align='center'>
-  <img src='https://wiki.radxa.com/mw/images/thumb/5/5a/Rockpi_x_ports_v14.jpg/750px-Rockpi_x_ports_v14.jpg' width='800' height='800' alt='Pin Config'>
+  <img src='https://wiki.radxa.com/mw/images/thumb/5/5a/Rockpi_x_ports_v14.jpg/750px-Rockpi_x_ports_v14.jpg' width='800' alt='Pin Config'>
 </p>
 <br>
 
